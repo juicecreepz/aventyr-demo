@@ -1,0 +1,4 @@
+event_id,site_id,reason,status,review_owner
+EVT-1010,COQ-YARD,Equipment issue reported on camera assembly,hold,Operations review
+EVT-1008,LANG-LAY,Wind-correlated trigger requires review before billing,hold,Monitoring supervisor
+

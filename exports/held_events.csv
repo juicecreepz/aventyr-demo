@@ -1,0 +1,3 @@
+event_id,site_id,site_name,hold_reason,review_owner,source
+EVT-1008,LANG-LAY,Langley Industrial Laydown,Wind-correlated trigger requires review before billing,Monitoring supervisor,dispute-log
+EVT-1010,COQ-YARD,Coquitlam Yard Gate,Equipment issue reported on camera assembly,Operations review,dispute-log

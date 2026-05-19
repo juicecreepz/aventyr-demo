@@ -1,0 +1,5 @@
+shift_id,date,site_id,site_name,start_time,end_time,required_certification,priority
+SHIFT-7001,2026-05-19,SITE-BRAVO,Site Bravo - North Fence,18:00,06:00,OFA1,high
+SHIFT-7002,2026-05-19,RIVER-A,Riverbend Tower A,20:00,04:00,BST,medium
+SHIFT-7003,2026-05-19,LANG-LAY,Langley Industrial Laydown,19:00,05:00,OFA1,high
+

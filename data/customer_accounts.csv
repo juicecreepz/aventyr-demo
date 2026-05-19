@@ -1,0 +1,5 @@
+customer_id,customer_name,site_id,site_name,contract_rate_per_verified_alarm,included_confirmed_alarms_per_month,included_confirmed_alarms_used_mtd,billing_cadence,odoo_customer_ref
+CUST-001,Cascade Construction Group,SITE-BRAVO,Site Bravo - North Fence,20.00,4,4,monthly,ODOO-CASCADE-001
+CUST-002,Riverbend Civil Partners,RIVER-A,Riverbend Tower A,20.00,4,4,monthly,ODOO-RIVERBEND-002
+CUST-003,Coquitlam Yard Services,COQ-YARD,Coquitlam Yard Gate,20.00,4,4,monthly,ODOO-COQYARD-003
+CUST-004,Langley Industrial Holdings,LANG-LAY,Langley Industrial Laydown,20.00,4,4,monthly,ODOO-LANGLEY-004

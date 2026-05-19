@@ -1,0 +1,5 @@
+timestamp,crew_name,step,agent_name,action,result
+2026-05-19T22:47:12+00:00,Alarm Billing Crew,1,Verified Alarm Pull Agent,Filtered monitoring queue for verified and unbilled events.,10 candidate events found from 12 total events.
+2026-05-19T22:47:12+00:00,Alarm Billing Crew,2,Account Match Agent,"Joined candidate events to customer accounts, allowance state, and Odoo references.",10 candidate events mapped or held.
+2026-05-19T22:47:12+00:00,Alarm Billing Crew,3,Dispute Flag Agent,"Checked dispute log, equipment notes, and wind-correlated events.",2 events held before invoice review.
+2026-05-19T22:47:12+00:00,Alarm Billing Crew,4,Approval Summary Agent,Prepared approval-ready AR total and held-event exceptions.,8 line items totaling $160.00.

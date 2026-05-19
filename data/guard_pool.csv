@@ -1,0 +1,8 @@
+guard_id,guard_name,available_date,certifications,home_city,prior_site_experience,rotation_score,hourly_rate
+GUARD-101,Maya Singh,2026-05-19,"OFA1;BST",Surrey,SITE-BRAVO,12,28.00
+GUARD-102,Daniel Park,2026-05-19,"BST",Coquitlam,RIVER-A,18,27.50
+GUARD-103,Sam Chen,2026-05-19,"OFA1;BST",Langley,LANG-LAY,8,29.00
+GUARD-104,Avery Wilson,2026-05-19,"OFA1",Burnaby,,3,30.00
+GUARD-105,Nadia Gill,2026-05-19,"BST",Surrey,SITE-BRAVO,5,26.50
+GUARD-106,Marco Silva,2026-05-19,"OFA1;BST",Abbotsford,LANG-LAY,16,27.00
+

@@ -1,0 +1,24 @@
+[
+  {
+    "sample_id": "INC-SAMPLE-1",
+    "site_id": "SITE-BRAVO",
+    "site_name": "Site Bravo - North Fence",
+    "reported_at": "2026-05-18T21:15:00-07:00",
+    "message": "Two individuals walking the north fence line. They turned away after lights came on. No damage visible."
+  },
+  {
+    "sample_id": "INC-SAMPLE-2",
+    "site_id": "LANG-LAY",
+    "site_name": "Langley Industrial Laydown",
+    "reported_at": "2026-05-18T18:40:00-07:00",
+    "message": "Wind is moving the tarp near camera three and creating repeat motion. No person on site."
+  },
+  {
+    "sample_id": "INC-SAMPLE-3",
+    "site_id": "RIVER-A",
+    "site_name": "Riverbend Tower A",
+    "reported_at": "2026-05-18T23:02:00-07:00",
+    "message": "Active break-in at the equipment cage. Vehicle at gate, tools visible, call police and site manager now."
+  }
+]
+

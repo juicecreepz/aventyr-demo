@@ -1,0 +1,30 @@
+[project]
+name = "aventyr-ops-command-center"
+version = "0.1.0"
+description = "CrewAI demo workflows built against Aventyr Security operating model"
+requires-python = ">=3.10,<3.14"
+dependencies = [
+  "crewai>=1.14.0",
+  "onnxruntime<1.24",
+  "pandas>=2.3.0",
+  "pydantic>=2.12.0",
+  "streamlit>=1.57.0",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=9.0.0",
+  "ruff>=0.14.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]
+ignore = ["E501"]
